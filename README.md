@@ -4,7 +4,6 @@
 - This script will save a text file to the same location the script was run from
 - In this script there is the options of it automatically getting an IP or taking one from user input
 - In this script you have the choice of scanning a port/port range or the most common ports
-#---------------------------------#
 # Requirements to run this script:
 - Python3 installed
 -  Pip/Pip3 installed
