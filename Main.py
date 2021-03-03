@@ -40,7 +40,6 @@ def commonScan(ip): #creates the commonScan function with the IP input
     json.dump(topScan,fOpen)
     fOpen.close()
     #writes to the file
-    print("The scan is finished and file has been created")
 
 def DNSinfo(): #creates the DNS info function
     dnsScan = dns.nameservers[0] #sets the dnsScan varaible to the dns server finder command
